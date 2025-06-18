@@ -1,0 +1,7 @@
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\bin\Debug\Sladkarnitsa s masiv.exe.config
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\bin\Debug\Sladkarnitsa s masiv.exe
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\bin\Debug\Sladkarnitsa s masiv.pdb
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\obj\Debug\Sladkarnitsa s masiv.csproj.AssemblyReference.cache
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\obj\Debug\Sladkarnitsa s masiv.csproj.CoreCompileInputs.cache
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\obj\Debug\Sladkarnitsa s masiv.exe
+D:\Users\Станислав\Desktop\kursov proekt\Sladkarnitsa s masiv\obj\Debug\Sladkarnitsa s masiv.pdb
