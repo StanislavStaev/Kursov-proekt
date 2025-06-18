@@ -1,7 +1,0 @@
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\bin\Debug\kursov proekt.exe.config
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\bin\Debug\kursov proekt.exe
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\bin\Debug\kursov proekt.pdb
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\obj\Debug\kursov proekt.csproj.AssemblyReference.cache
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\obj\Debug\kursov proekt.csproj.CoreCompileInputs.cache
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\obj\Debug\kursov proekt.exe
-D:\Users\Станислав\Desktop\kursov proekt\kursov proekt\obj\Debug\kursov proekt.pdb

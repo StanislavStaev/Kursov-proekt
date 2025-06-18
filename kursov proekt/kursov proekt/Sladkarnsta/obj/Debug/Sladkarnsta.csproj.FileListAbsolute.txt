@@ -1,7 +1,0 @@
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\bin\Debug\Sladkarnsta.exe.config
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\bin\Debug\Sladkarnsta.exe
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\bin\Debug\Sladkarnsta.pdb
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\obj\Debug\Sladkarnsta.csproj.AssemblyReference.cache
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\obj\Debug\Sladkarnsta.csproj.CoreCompileInputs.cache
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\obj\Debug\Sladkarnsta.exe
-D:\Users\Станислав\Desktop\kursov proekt\Sladkarnsta\obj\Debug\Sladkarnsta.pdb
